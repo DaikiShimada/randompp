@@ -3,7 +3,7 @@
 
 #include "Random_base.hpp"
 
-namespace Random
+namespace rpp
 {
 
 template <typename T>
