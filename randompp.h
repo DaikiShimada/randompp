@@ -2,7 +2,7 @@
 #define RANDPP
 
 #include "randompp/Random_base.hpp"
-#include "randomppUniform.hpp"
-#include "randomppGaussian.hpp"
+#include "randompp/Uniform.hpp"
+#include "randompp/Gaussian.hpp"
 
 #endif
