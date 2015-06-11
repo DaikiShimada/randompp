@@ -1,8 +1,8 @@
 #ifndef RANDPP
 #define RANDPP
 
-#include "Random_base.hpp"
-#include "Uniform.hpp"
-#include "Gaussian.hpp"
+#include "randompp/Random_base.hpp"
+#include "randomppUniform.hpp"
+#include "randomppGaussian.hpp"
 
 #endif
