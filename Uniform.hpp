@@ -1,7 +1,7 @@
 #ifndef RANDPP_UNIFORM
 #define RANDPP_UNIFORM
 
-#include "Random_base.hpp"
+#include "randompp/Random_base.hpp"
 
 namespace rpp
 {

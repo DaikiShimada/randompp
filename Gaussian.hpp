@@ -4,7 +4,7 @@
 #define _USE_MATH_DEFINES
 
 #include <cmath>
-#include <Random_base.hpp>
+#include <randompp/Random_base.hpp>
 
 namespace rpp
 {
